@@ -5,6 +5,7 @@ cache/
 *.log
 *.tmp
 .replxx_history
+server.cfg*
 
 # OS generated files
 .DS_Store

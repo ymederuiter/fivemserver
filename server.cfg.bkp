@@ -6,7 +6,7 @@
 
 ## You SHOULD edit the following:
 sv_hostname "Jeikh Development Server!"
-sets sv_projectName "[FiveM Basic Server] JeikhTesting"
+sets sv_projectName "Jeikh Development Server!"
 sets sv_projectDesc "Recipe for the base resources required to run a minimal FiveM server."
 sets tags "default, deployer"
 sets locale "root-AQ"
@@ -19,6 +19,7 @@ endpoint_add_tcp "0.0.0.0:30120"
 endpoint_add_udp "0.0.0.0:30120"
 set steam_webApiKey "none"
 set resources_useSystemChat true
+sets sv_pureLevel 1
 
 ## These resources will start by default.
 ensure mapmanager
