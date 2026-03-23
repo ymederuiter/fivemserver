@@ -1,2 +1,18 @@
 # Folders
 cache/
+
+# Files
+*.log
+*.tmp
+.replxx_history
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE generated files
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
