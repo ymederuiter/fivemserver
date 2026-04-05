@@ -1,20 +1,4 @@
-# Folders
-cache/
-db/*
-
-# Files
-*.log
-*.tmp
-.replxx_history
-server.cfg*
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# IDE generated files
-.vscode/
-.idea/
-
-# Node modules
-node_modules/
+*.cfg
+/cache/
+/resources/\[local\]/
+/db/
