@@ -1,4 +1,4 @@
-*.cfg
+*.cfg*
 /cache/
 /resources/\[local\]/
 /db/
